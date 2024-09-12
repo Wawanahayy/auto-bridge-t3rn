@@ -10,6 +10,10 @@
 <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="250" height="250"> <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="250" height="250"> <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif" alt="-" width="250" height="250">
 - - - - - - - - -
 
+clone
+```bash
+git clone https://github.com/Wawanahayy/auto-bridge-t3rn.git
+```
 
 
 # install web3
