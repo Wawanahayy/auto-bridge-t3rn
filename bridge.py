@@ -19,7 +19,7 @@ contract_addresses = {
 # Private key dan alamat wallet (ubah ini dengan data Anda)
 private_keys = {
     'Arbitrum': '0x_PRIVATE_KEY',
-    'Optimism': '0x_PRIVATE_KEY,
+    'Optimism': '0x_PRIVATE_KEY',
     'Base': '0x_PRIVATE_KEY',
     'Blast': '0x_PRIVATE_KEY'
 }
